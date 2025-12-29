@@ -1,0 +1,24 @@
+ProductID,ProductName,Category,Subcategory,CocoaPercent,PackSize_g,IsSugarFree,IsOrganic,BasePrice,UnitCost,LaunchDate
+1001,Milk Chocolate Bar 100g,Bars,Milk,35,100,False,False,195.14,105.82,2019-09-05
+1002,Dark Chocolate Bar 70% 100g,Bars,Dark,70,100,False,False,158.28,83.66,2022-10-11
+1003,Almond Milk Bar 80g,Bars,Nuts,40,80,False,False,204.45,108.85,2022-06-16
+1004,Hazelnut Dark Bar 80g,Bars,Nuts,72,80,False,False,186.71,107.66,2018-12-24
+1005,Fruit & Nut Bar 100g,Bars,Fruit & Nut,45,100,False,False,120.36,68.4,2023-10-30
+1006,Caramel Filled Bar 100g,Bars,Caramel,38,100,False,False,217.32,124.01,2019-05-26
+1007,White Chocolate Bar 90g,Bars,White,0,90,False,False,193.73,110.72,2023-08-20
+1008,Mint Dark Bar 80g,Bars,Mint,66,80,False,False,196.47,129.1,2018-01-19
+1009,Classic Truffle Box (6 pc),Truffles,Classic,55,90,False,False,333.27,176.53,2023-07-30
+1010,Assorted Truffle Box (12 pc),Truffles,Assorted,58,180,False,False,542.75,284.61,2023-07-05
+1011,Hazelnut Truffles (6 pc),Truffles,Nuts,60,90,False,False,491.02,250.08,2023-06-18
+1012,Sea Salt Caramel Truffles (8 pc),Truffles,Caramel,52,120,False,False,852.4,495.07,2022-08-27
+1013,Premium Cocoa Powder 200g,Cocoa Powder,Premium,80,200,True,False,539.74,327.32,2021-04-20
+1014,Organic Cocoa Powder 500g,Cocoa Powder,Organic,85,500,True,True,620.24,337.6,2022-12-08
+1015,Hot Chocolate Mix 250g,Drinking Chocolate,Milk,45,250,False,False,321.89,163.52,2019-12-10
+1016,Dark Drinking Chocolate 300g,Drinking Chocolate,Dark,65,300,False,False,252.72,128.58,2023-06-19
+1017,Sugar-Free Hot Chocolate 250g,Drinking Chocolate,Sugar-Free,55,250,True,False,357.47,208.24,2021-11-21
+1018,Festive Gift Box Small,Gift Boxes,Festive,50,300,False,False,627.63,368.52,2021-03-18
+1019,Festive Gift Box Large,Gift Boxes,Festive,55,700,False,False,2155.26,1243.92,2021-07-16
+1020,Valentine Heart Box,Gift Boxes,Valentine,60,450,False,False,1763.33,911.16,2021-12-24
+1021,Diwali Celebration Box,Gift Boxes,Diwali,58,600,False,False,2016.18,1132.3,2018-04-06
+1022,Raksha Bandhan Box,Gift Boxes,Raksha Bandhan,55,500,False,False,1209.05,672.03,2018-12-24
+1023,New Year Hamper,Gift Boxes,New Year,57,800,False,False,2441.4,1369.47,2019-09-20

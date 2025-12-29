@@ -1,0 +1,27 @@
+PromotionID,PromoName,StartDate,EndDate,DiscountPct,PromoType
+0,No Promo,2000-01-01,2099-12-31,0.0,None
+1,Valentine Week 2021,2021-02-07,2021-02-14,0.1,Valentine
+2,Raksha Bandhan 2021,2021-08-10,2021-08-22,0.12,Festival
+3,Diwali 2021,2021-11-02,2021-11-07,0.15,Festival
+4,Christmas-NewYear 2021,2021-12-20,2021-12-31,0.15,Seasonal
+5,Monsoon Chiller 2021,2021-07-01,2021-07-10,0.05,Seasonal
+6,Valentine Week 2022,2022-02-07,2022-02-14,0.1,Valentine
+7,Raksha Bandhan 2022,2022-08-10,2022-08-22,0.12,Festival
+8,Diwali 2022,2022-10-22,2022-10-27,0.15,Festival
+9,Christmas-NewYear 2022,2022-12-20,2022-12-31,0.15,Seasonal
+10,Monsoon Chiller 2022,2022-07-01,2022-07-10,0.05,Seasonal
+11,Valentine Week 2023,2023-02-07,2023-02-14,0.1,Valentine
+12,Raksha Bandhan 2023,2023-08-10,2023-08-22,0.12,Festival
+13,Diwali 2023,2023-11-10,2023-11-15,0.15,Festival
+14,Christmas-NewYear 2023,2023-12-20,2023-12-31,0.15,Seasonal
+15,Monsoon Chiller 2023,2023-07-01,2023-07-10,0.05,Seasonal
+16,Valentine Week 2024,2024-02-07,2024-02-14,0.1,Valentine
+17,Raksha Bandhan 2024,2024-08-10,2024-08-22,0.12,Festival
+18,Diwali 2024,2024-10-30,2024-11-04,0.15,Festival
+19,Christmas-NewYear 2024,2024-12-20,2024-12-31,0.15,Seasonal
+20,Monsoon Chiller 2024,2024-07-01,2024-07-10,0.05,Seasonal
+21,Valentine Week 2025,2025-02-07,2025-02-14,0.1,Valentine
+22,Raksha Bandhan 2025,2025-08-10,2025-08-22,0.12,Festival
+23,Diwali 2025,2025-10-18,2025-10-23,0.15,Festival
+24,Christmas-NewYear 2025,2025-12-20,2025-12-31,0.15,Seasonal
+25,Monsoon Chiller 2025,2025-07-01,2025-07-10,0.05,Seasonal

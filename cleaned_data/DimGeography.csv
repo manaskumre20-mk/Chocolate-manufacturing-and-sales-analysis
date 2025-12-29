@@ -1,0 +1,25 @@
+GeoID,Region,State,City
+501,North,Delhi,Delhi
+502,West,Maharashtra,Mumbai
+503,South,Karnataka,Bengaluru
+504,South,Tamil Nadu,Chennai
+505,East,West Bengal,Kolkata
+506,South,Telangana,Hyderabad
+507,West,Gujarat,Ahmedabad
+508,West,Maharashtra,Pune
+509,North,Rajasthan,Jaipur
+510,Central,Madhya Pradesh,Bhopal
+511,North,Uttar Pradesh,Lucknow
+512,North,Punjab,Chandigarh
+513,South,Kerala,Kochi
+514,East,Odisha,Bhubaneswar
+515,West,Goa,Panaji
+516,North,Haryana,Gurugram
+517,North,Uttarakhand,Dehradun
+518,East,Assam,Guwahati
+519,South,Andhra Pradesh,Visakhapatnam
+520,West,Gujarat,Surat
+521,Export,UAE,Dubai
+522,Export,Singapore,Singapore
+523,Export,USA,New York
+524,Export,UK,London
