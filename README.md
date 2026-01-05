@@ -141,7 +141,3 @@ For questions or clarification, open an issue on this repository or contact the 
 - GitHub: `@manaskumre20-mk`
 
 ---
-
-If you'd like, I can:
-- Add a `requirements.txt` and an example `scripts/regenerate_cleaned_data.py` with deterministic checks, or
-- Create an example notebook with the core analyses and charts referenced above.
